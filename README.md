@@ -1,4 +1,4 @@
-# start
+# Start
 
 Open VS Code
 Open Folder : Select the folder where the notebook is
