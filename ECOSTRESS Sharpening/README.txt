@@ -11,6 +11,7 @@ conda activate nameofyourenv
 conda install -c conda-forge gdal (this shouldn't take long)
 pip install rasterio
 pip install matplotlib
+conda install conda-forge::sentinelhub
 
 All the other packages needed here should be installed by default in a conda env but you can type conda list to check the installed packages, if one is missing just install it with conda or pip
 
