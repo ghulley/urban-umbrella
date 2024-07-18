@@ -20,11 +20,11 @@ All the other packages needed here should be installed by default in a conda env
 Go on https://github.com/radosuav/pyDMS 
 Download the zip
 Extract the archive in the same folder as the notebook (i.e. the folder currently open on VSCode)
-You sould see a new folder named pyDMS-master that contains another folder named pyDMS
+You sould see a new folder named pyDMS-master that contains another folder named pyDMS-master
 Rename both these folders to pyDMS_master 
 
 Go in terminal 
-cd ./pyDMS_master
+cd ./pyDMS_master/pyDMS_master
 python setup.py install
 
 
